@@ -1,0 +1,3 @@
+Total nodes are 5
+Sum of nodes is 15
+Max element is 5
