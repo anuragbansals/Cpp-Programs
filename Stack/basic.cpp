@@ -6,7 +6,7 @@ class stack
     int size;
     int top;
     int *s;
-}
+};
 void push(stack *st,int x)
 {
     if(st->top==st->size-1)
@@ -36,7 +36,7 @@ int peek(stack *st,int pos)
         cout<<"Invalid position"<<endl;
     else
     {
-        x = st->s[st->top-pos+1];
+        int x = st->s[st->top-pos+1];
         return x;
     }     
 }
@@ -65,7 +65,7 @@ int main()
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
     stack st;
-    cout<<"Enter size of stack"<<end;
+    cout<<"Enter size of stack"<<endl;
     cin>>st.size;
     st.s = new int[st.size];
     st.top = -1;
