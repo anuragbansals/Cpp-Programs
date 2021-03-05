@@ -1,1 +1,4 @@
-(())hjkhhhhhhhhhhh()
+1. find the  length of string
+2. reverse the string
+3. uppercase of the string
+7
