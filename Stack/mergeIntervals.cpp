@@ -21,7 +21,7 @@ vector<vector<int>> merge(vector<vector<int>>& v) {
         }
         if(!st.empty())
             vec.push_back({st.top().first,st.top().second});
-        return vec;
+        return vec; 
     }
 int main()
 {
