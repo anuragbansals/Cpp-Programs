@@ -1,0 +1,1 @@
+No. of connected components: 1
