@@ -45,7 +45,7 @@ int main()
     ob.addEdge(1,2);
     ob.addEdge(1,3);
     ob.addEdge(1,5);
-    // ob.addEdge(5,3);
+    ob.addEdge(5,3);
     ob.addEdge(5,6);
     ob.addEdge(2,4);
     // addEdge(1,2);
