@@ -1,1 +1,6 @@
-18
+Mumbai is located at distance of  7
+Delhi is located at distance of  1
+Agra is located at distance of  2
+Bhopal is located at distance of  4
+Amritsar is located at distance of  0
+Jaipur is located at distance of  3
